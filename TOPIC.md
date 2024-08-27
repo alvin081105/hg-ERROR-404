@@ -18,7 +18,10 @@
 
 ## 제품 아키텍처 (이미지)
 
-**(필수)** 제품 또는 서비스의 전체 구성도 또는 아키텍처를 이미지로 작성해 주세요. 이미지는 [images](./images) 디렉토리에 저장한 후 이곳에 링크를 걸어주세요.
+![image](https://github.com/user-attachments/assets/b1d2386e-bdab-4f69-b028-556fbff7fbf2)
+![image](https://github.com/user-attachments/assets/b7fdb480-8200-4362-b540-416307e2e98f)
+![image](https://github.com/user-attachments/assets/4f4cadaa-ee40-442f-94b9-7bc44f2fadcc)
+
 
 ## 제품 소개 슬라이드
 
@@ -26,4 +29,4 @@
 
 ## 제품 소개 동영상
 
-제품 또는 서비스를 소개하는 동영상을 YouTube와 같은 곳에 업로드하고 동영상 링크를 적어주세요.
+(https://youtu.be/gCitvDCUEoI)
